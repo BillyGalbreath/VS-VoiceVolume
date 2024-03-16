@@ -1,0 +1,13 @@
+{
+  "type": "code",
+  "name": "VoiceVolume",
+  "modid": "voicevolume",
+  "version": "1.1.0",
+  "description": "Add voice volume sliders to sound settings",
+  "website": "https://github.com/BillyGalbreath/VS-VoiceVolume",
+  "authors": [ "BillyGalbreath" ],
+  "side": "Client",
+  "dependencies": {
+    "game": "1.18.8"
+  }
+}
